@@ -140,15 +140,15 @@ nav ul li a:hover {
 
 .profile img {
     width: 150px;
-    height: 1500px;
+    height: 150px;
 
     object-fit: cover;
 
-    border-radius: 50%;
+    border-radius: 20%;
 
     border: 7px solid #6c63ff;
 
-    box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.0.3);
 }
 
 
